@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Trangchu";
+    Layout = "~/Views/LayOut/NguoidungLayOut.cshtml";
+    }
+
+  <!--"Phần Nội Dung"-->
+    @*Ví dụ về sử dụng pa*@
+    @*@Html.Partial("~/Views/Home/DienThoaiMoiPartial.cshtml")*@
+<div style="font-size:20px;color:#060944;text-align:left">
+    <h2>Một số sản phẩm mới</h2>
+</div>
+    @Html.Action("DienThoaiMoiPartial", "Sanpham")
+@* dùng Html.Action vì bên controller ta đag dùng  PartialViewResult đc bao quát bởi ActionResult *@

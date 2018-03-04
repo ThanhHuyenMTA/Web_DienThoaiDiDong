@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DienThoaiDiDongModelStoreContainer" CdmEntityContainer="DienThoaiDiDongEntities">
+    <EntitySetMapping Name="giaodiches">
+      <EntityTypeMapping TypeName="DienThoaiDiDongModel.giaodich">
+        <MappingFragment StoreEntitySet="giaodich">
+          <ScalarProperty Name="giaodich_id" ColumnName="giaodich_id" />
+          <ScalarProperty Name="giaodich_status" ColumnName="giaodich_status" />
+          <ScalarProperty Name="khachhang_id" ColumnName="khachhang_id" />
+          <ScalarProperty Name="khachhang_name" ColumnName="khachhang_name" />
+          <ScalarProperty Name="khachhang_tuoi" ColumnName="khachhang_tuoi" />
+          <ScalarProperty Name="khachhang_diachi" ColumnName="khachhang_diachi" />
+          <ScalarProperty Name="khachhang_sdt" ColumnName="khachhang_sdt" />
+          <ScalarProperty Name="tongtien" ColumnName="tongtien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="hoadons">
+      <EntityTypeMapping TypeName="DienThoaiDiDongModel.hoadon">
+        <MappingFragment StoreEntitySet="hoadon">
+          <ScalarProperty Name="hoadon_id" ColumnName="hoadon_id" />
+          <ScalarProperty Name="giaodich_id" ColumnName="giaodich_id" />
+          <ScalarProperty Name="sanpham_id" ColumnName="sanpham_id" />
+          <ScalarProperty Name="soluong_sp" ColumnName="soluong_sp" />
+          <ScalarProperty Name="tongtien" ColumnName="tongtien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="khachhangs">
+      <EntityTypeMapping TypeName="DienThoaiDiDongModel.khachhang">
+        <MappingFragment StoreEntitySet="khachhang">
+          <ScalarProperty Name="khachhang_id" ColumnName="khachhang_id" />
+          <ScalarProperty Name="khachhang_name" ColumnName="khachhang_name" />
+          <ScalarProperty Name="khachhang_tuoi" ColumnName="khachhang_tuoi" />
+          <ScalarProperty Name="khachhang_diachi" ColumnName="khachhang_diachi" />
+          <ScalarProperty Name="khachhang_sdt" ColumnName="khachhang_sdt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sanphams">
+      <EntityTypeMapping TypeName="DienThoaiDiDongModel.sanpham">
+        <MappingFragment StoreEntitySet="sanpham">
+          <ScalarProperty Name="sanpham_id" ColumnName="sanpham_id" />
+          <ScalarProperty Name="sanpham_name" ColumnName="sanpham_name" />
+          <ScalarProperty Name="gia_sanpham" ColumnName="gia_sanpham" />
+          <ScalarProperty Name="soluong_sp" ColumnName="soluong_sp" />
+          <ScalarProperty Name="theloai_id" ColumnName="theloai_id" />
+          <ScalarProperty Name="hinhanh_sp" ColumnName="hinhanh_sp" />
+          <ScalarProperty Name="hinhanh_sp1" ColumnName="hinhanh_sp1" />
+          <ScalarProperty Name="hinhanh_sp3" ColumnName="hinhanh_sp3" />
+          <ScalarProperty Name="hinhanh_sp4" ColumnName="hinhanh_sp4" />
+          <ScalarProperty Name="kichthuoc_hinhanh" ColumnName="kichthuoc_hinhanh" />
+          <ScalarProperty Name="camera_truoc" ColumnName="camera_truoc" />
+          <ScalarProperty Name="camera_sau" ColumnName="camera_sau" />
+          <ScalarProperty Name="he_dieu_hanh" ColumnName="he_dieu_hanh" />
+          <ScalarProperty Name="cpu" ColumnName="cpu" />
+          <ScalarProperty Name="ram" ColumnName="ram" />
+          <ScalarProperty Name="bo_nho_trong" ColumnName="bo_nho_trong" />
+          <ScalarProperty Name="the_nho" ColumnName="the_nho" />
+          <ScalarProperty Name="sim" ColumnName="sim" />
+          <ScalarProperty Name="ket_noi" ColumnName="ket_noi" />
+          <ScalarProperty Name="pin" ColumnName="pin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="DienThoaiDiDongModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="theloaisps">
+      <EntityTypeMapping TypeName="DienThoaiDiDongModel.theloaisp">
+        <MappingFragment StoreEntitySet="theloaisp">
+          <ScalarProperty Name="theloai_id" ColumnName="theloai_id" />
+          <ScalarProperty Name="theloai_name" ColumnName="theloai_name" />
+          <ScalarProperty Name="parent_id" ColumnName="parent_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

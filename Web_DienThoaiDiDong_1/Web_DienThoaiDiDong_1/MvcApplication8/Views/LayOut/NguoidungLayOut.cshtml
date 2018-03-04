@@ -1,0 +1,187 @@
+﻿@*@{
+    Layout = null;
+}*@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @*@"Chèn link css"*@
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <link href="~/Content/NguoidungCssLayOut/style.css" rel="stylesheet" />
+
+    @*Icon-chèn một số hình ảnh*@
+    @*<link href="~/Content/bootstrap-3.3.6-dist/icon.css" rel="stylesheet" />*@
+
+    @*Chèn CSS thiết kế trang web*@
+    <link href="~/Content/NguoidungCssLayOut/NguoiDungCss.css" rel="stylesheet" />
+
+   @*chen font*@
+    <link href="~/Content/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+
+    @*Chen link css ,javaScript nivo slider*@
+
+    <link href="~/nivoSider/nivo-slider.css" rel="stylesheet" />
+    <script src="~/Scripts/jquery-1.12.2.min.js"></script>
+    <script src="~/nivoSider/jquery.nivo.slider.js"></script>
+
+    <script src="~/nivoSider/jquery.nivo.slider.pack.js"></script>
+   
+    @*chèn bootstrap*@
+    @*<link href="~/Content/bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Content/bootstrap-3.3.6-dist/js/bootstrap.js"></script>
+    <script src="~/Content/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>*@
+
+</head>
+
+<body > 
+    <div class="toantrang" style="background-color:#0a0758">
+       
+        <!--"Phần đầu"-->
+        <div style="height:48px"></div>
+        <div id="bg"  style="height: 220px; width:100%; background-image: url('/Hinhanh/Netcen Welcome.png')"> </div>
+        </div>
+
+
+        <!--"Phần Menu"-->
+        <div id="noi" class="nav">
+
+            <ul>
+                <li> 
+                    <a href="/Home/Index"><i style="color:white" class="fa fa-home"></i><b>Trang chủ</b></a>
+                </li>
+                <li>
+                    <a href="#"><i style="color:white" class="fa fa-list"></i><b>Danh mục</b></a>
+                    <ul>
+                        @Html.Action("DanhmucDienThoaiPartial", "Theloai")
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#"><i style="color:white" class="fa fa-headphones"></i><b>Phụ kiện</b></a>
+                    <ul>
+                        @Html.Action("DanhMucPhuKienPartial", "Theloai")
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#"><i style="color:white" class="fa fa-file-text-o"></i><b>Tin tức</b></a>
+                </li>
+
+                <li>
+                    <a href="#"><i style="color:white" class="fa fa-gift"></i><b>Khuyến mại</b></a>
+                </li>
+            </ul>
+
+            @* Phần đăng nhập đăng xuất *@
+            @if (Session["Taikhoan"] == null || Session["Taikhoan"] =="")
+            {
+                 <div id="kn" class="DangKyDangNhap">
+                @Html.ActionLink("Đăng Ký", "DangKy","Nguoidung", null, htmlAttributes: new { @class = "DangKy" })
+                <i style="color:white" class="fa fa-sign-in"></i>
+                @Html.ActionLink("Đăng Nhập", "DangNhap","Nguoidung", null, htmlAttributes: new { @class = "DangNhap" })
+                </div>
+                  @* Thêm giỏ hàng *@
+            <div id="ggh" style="width: 40px; float: left; height: 20px; margin-left: 50px; margin-top:14px;">
+                @Html.Action("GiohangPartial","GioHang")
+               
+            </div>
+
+            }
+            
+            else
+            {
+                <li class="col-md-2">
+                    <div id="kn" style="color:red" class="DangKyDangNhap">
+                        @Session["tentaikhoan"]                      
+                        <ul style="color:white;font-size:16px" class="dropdown-menu animated fadeInUp">
+                            <li ><a href="#">Profile</a></li>
+                            <li ><a href="@Url.Action("Dangnhap","Nguoidung")">Log_Out</a></li>
+                        </ul>
+                    </div>
+                </li>
+                  @* Thêm giỏ hàng *@
+            <div id="ggh" style="width: 40px; float: left; height: 20px; margin-left: 50px; margin-top:-15px;">
+                @Html.Action("GiohangPartial","GioHang")
+            </div>
+
+            }
+
+          
+
+          
+            @* Phần tìm kiếm *@
+            <div style="width: 200px; float: left; margin-left: 104px; margin-top: -14px">
+                @using (Html.BeginForm("Ketquatimkiem","Timkiem",FormMethod.Post))
+                {
+                    @Html.TextBox("txtTimkiem","", htmlAttributes: new { @class = "TextboxTimkiem", @placeholder = "Nhập từ khóa cần tìm kiếm vào đây" })
+                    @*<div>
+                        <button class="tim_kiem" type="submit">
+                            <img src="/Hinhanh/images.png" />
+                        </button>
+                    </div>*@
+                     @*<form class="tim_kiem">
+                               <input style="background-image: url('/Hinhanh/images.png');" type="text" name="search" placeholder="Search...">
+                      </form>*@
+                }
+               
+            </div>
+           
+        </div>
+
+       <div style="height:20px;background-color:#ffd800"></div>
+        @* chen hinh anh dong *@
+        <div id="slider" class="nivoSlider" >
+           
+                <img src="~/Hinhanh/02_04_2016_09_19_45_TGDD-LG-K10-800-300-ver2.jpg" />
+                <img src="~/Hinhanh/17_03_2016_16_15_21_TGDD-ZTE-Wave3-800-300.jpg" />
+                <img src="~/Hinhanh/18_03_2016_16_51_27_TGDD-iPhone6s-800-300.jpg" />
+                <img src="~/Hinhanh/19_03_2016_10_32_38_TGDD-Launching-Galaxy-S7-800-300.jpg" />
+                <img src="~/Hinhanh/22_03_2016_14_50_03_TGDD-Le-hoi-Galaxy-800-300.jpg" />
+        </div>
+
+    @*Hình ảnh khuyến mại*@
+         <div class="km" >
+     <a href="#">
+         <img style="width:333px" src="/Hinhanh/photoshop.png">
+     </a>
+      
+    </div>
+      
+         @*Nội dung hiện thị*@
+            @RenderBody()
+
+
+          <!--"Phần cuối"-->
+        <div class="footer" style="background-color:#c1baef;font-size:20px">
+            <address style="text-align: left;">
+                Designed by Nhom5_VipPro<br />
+                Email:<a href="thanhhuyen010695@gmail.com">thanhhuyen010695@gmail.com</a><i style="color:black" class="fa fa-envelope"> </i>
+            </address>
+ 
+            <div style="font-size: 20px; font-weight: bold; color: #0a0758; text-align:left; direction: rtl;">
+                SHOP ĐIỆN THOẠI DI ĐỘNG HÀNG ĐẦU HỌC VIỆN <br />
+                Trụ sở chính: 236 Hoàng Quốc Việt <br />
+                Chi nhánh: số TH12A,Tòa Nhà H5,Trường Học Viện Kỹ Thuật Quân Sự <br />
+                Điện thoại:<i style="color:black;font-size:20px" class="fa fa-phone-square"></i> HN - (04) 75463322, HCM - (08) 64673223 <br />
+                Mã số doanh nghiệp:1315 do Sở Kế hoạch và Đầu tư TP. Hà Nội cấp lần đầu ngày 06/04/2016
+            </div>
+    </div>
+    @*Script chay nivo-Slider*@
+
+    <script type="text/javascript">
+        $(window).load(function () {
+            $('#slider').nivoSlider();
+        });
+    </script>
+ 
+</body>
+</html>
+<style>
+    .nivo-controlNav {
+        display: none;
+    }
+    
+
+</style>

@@ -1,0 +1,7 @@
+﻿@using MvcApplication8.Models;
+@model List<theloaisp>
+@foreach (var item in Model)
+{
+
+    <li><a href="@Url.Action("SanPhamTheoMuc", "Sanpham", new {@madanhmuc=item.theloai_id })">@item.theloai_name</a></li>
+}

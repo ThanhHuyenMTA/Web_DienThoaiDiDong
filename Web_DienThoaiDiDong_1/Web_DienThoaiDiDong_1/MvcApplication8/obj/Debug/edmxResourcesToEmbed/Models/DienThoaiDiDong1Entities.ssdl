@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DienThoaiDiDong1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="chitiethoadon">
+    <Key>
+      <PropertyRef Name="hoadon_id" />
+      <PropertyRef Name="sanpham_id" />
+    </Key>
+    <Property Name="hoadon_id" Type="int" Nullable="false" />
+    <Property Name="sanpham_id" Type="int" Nullable="false" />
+    <Property Name="soluong" Type="int" />
+    <Property Name="dongia" Type="int" />
+  </EntityType>
+  <EntityType Name="hoadon">
+    <Key>
+      <PropertyRef Name="hoadon_id" />
+    </Key>
+    <Property Name="hoadon_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ngaygiao" Type="datetime" />
+    <Property Name="ngaydat" Type="datetime" />
+    <Property Name="dathanhtoan" Type="nvarchar" MaxLength="50" />
+    <Property Name="tinhtranggiaohang" Type="nvarchar" MaxLength="50" />
+    <Property Name="khachhang_id" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="khachhang">
+    <Key>
+      <PropertyRef Name="khachhang_id" />
+    </Key>
+    <Property Name="khachhang_id" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="khachhang_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="khachhang_ns" Type="date" />
+    <Property Name="khachhang_diachi" Type="nvarchar" MaxLength="50" />
+    <Property Name="khachhang_sdt" Type="nchar" MaxLength="15" />
+    <Property Name="khachhang_taikhoan" Type="nvarchar" MaxLength="50" />
+    <Property Name="khachhang_matkhau" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sanpham">
+    <Key>
+      <PropertyRef Name="sanpham_id" />
+    </Key>
+    <Property Name="sanpham_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="sanpham_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="gia_sanpham" Type="int" />
+    <Property Name="soluong_sp" Type="int" />
+    <Property Name="theloai_id" Type="nvarchar" MaxLength="50" />
+    <Property Name="hinhanh_sp" Type="text" />
+    <Property Name="hinhanh_sp1" Type="text" />
+    <Property Name="hinhanh_sp3" Type="text" />
+    <Property Name="hinhanh_sp4" Type="text" />
+    <Property Name="kichthuoc_hinhanh" Type="text" />
+    <Property Name="camera_truoc" Type="text" />
+    <Property Name="camera_sau" Type="text" />
+    <Property Name="he_dieu_hanh" Type="nvarchar" MaxLength="200" />
+    <Property Name="cpu" Type="nvarchar" MaxLength="200" />
+    <Property Name="ram" Type="nvarchar" MaxLength="200" />
+    <Property Name="bo_nho_trong" Type="nvarchar" MaxLength="200" />
+    <Property Name="the_nho" Type="nvarchar" MaxLength="200" />
+    <Property Name="sim" Type="nvarchar" MaxLength="200" />
+    <Property Name="ket_noi" Type="nvarchar" MaxLength="200" />
+    <Property Name="pin" Type="nvarchar" MaxLength="100" />
+    <Property Name="chuthich" Type="nvarchar" MaxLength="500" />
+    <Property Name="moi" Type="int" />
+    <Property Name="style" Type="int" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="theloaisp">
+    <Key>
+      <PropertyRef Name="theloai_id" />
+    </Key>
+    <Property Name="theloai_id" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="theloai_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="phukien" Type="int" />
+    <Property Name="parent_id" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Taikhoan" />
+    </Key>
+    <Property Name="Taikhoan" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Matkhau" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <Association Name="FK_chitiethoadon_hoadon">
+    <End Role="hoadon" Type="Self.hoadon" Multiplicity="1" />
+    <End Role="chitiethoadon" Type="Self.chitiethoadon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="hoadon">
+        <PropertyRef Name="hoadon_id" />
+      </Principal>
+      <Dependent Role="chitiethoadon">
+        <PropertyRef Name="hoadon_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_chitiethoadon_sanpham">
+    <End Role="sanpham" Type="Self.sanpham" Multiplicity="1" />
+    <End Role="chitiethoadon" Type="Self.chitiethoadon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="sanpham">
+        <PropertyRef Name="sanpham_id" />
+      </Principal>
+      <Dependent Role="chitiethoadon">
+        <PropertyRef Name="sanpham_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_hoadon_khachhang">
+    <End Role="khachhang" Type="Self.khachhang" Multiplicity="0..1" />
+    <End Role="hoadon" Type="Self.hoadon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="khachhang">
+        <PropertyRef Name="khachhang_id" />
+      </Principal>
+      <Dependent Role="hoadon">
+        <PropertyRef Name="khachhang_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_sanpham_theloaisp">
+    <End Role="theloaisp" Type="Self.theloaisp" Multiplicity="0..1" />
+    <End Role="sanpham" Type="Self.sanpham" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="theloaisp">
+        <PropertyRef Name="theloai_id" />
+      </Principal>
+      <Dependent Role="sanpham">
+        <PropertyRef Name="theloai_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DienThoaiDiDong1ModelStoreContainer">
+    <EntitySet Name="chitiethoadon" EntityType="Self.chitiethoadon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="hoadon" EntityType="Self.hoadon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="khachhang" EntityType="Self.khachhang" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sanpham" EntityType="Self.sanpham" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="theloaisp" EntityType="Self.theloaisp" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_chitiethoadon_hoadon" Association="Self.FK_chitiethoadon_hoadon">
+      <End Role="hoadon" EntitySet="hoadon" />
+      <End Role="chitiethoadon" EntitySet="chitiethoadon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_chitiethoadon_sanpham" Association="Self.FK_chitiethoadon_sanpham">
+      <End Role="sanpham" EntitySet="sanpham" />
+      <End Role="chitiethoadon" EntitySet="chitiethoadon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_hoadon_khachhang" Association="Self.FK_hoadon_khachhang">
+      <End Role="khachhang" EntitySet="khachhang" />
+      <End Role="hoadon" EntitySet="hoadon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_sanpham_theloaisp" Association="Self.FK_sanpham_theloaisp">
+      <End Role="theloaisp" EntitySet="theloaisp" />
+      <End Role="sanpham" EntitySet="sanpham" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

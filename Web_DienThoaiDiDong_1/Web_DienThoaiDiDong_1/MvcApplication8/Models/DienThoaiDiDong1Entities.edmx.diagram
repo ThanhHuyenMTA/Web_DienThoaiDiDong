@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b4a28630cb4845ffbf8d55800190619b" Name="Diagram1">
+        <EntityTypeShape EntityType="DienThoaiDiDong1Model.chitiethoadon" Width="1.5" PointX="5.25" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="DienThoaiDiDong1Model.hoadon" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DienThoaiDiDong1Model.khachhang" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DienThoaiDiDong1Model.sanpham" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DienThoaiDiDong1Model.sysdiagram" Width="1.5" PointX="5.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DienThoaiDiDong1Model.theloaisp" Width="1.5" PointX="0.75" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="DienThoaiDiDong1Model.User" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="DienThoaiDiDong1Model.FK_chitiethoadon_hoadon" ManuallyRouted="false" />
+        <AssociationConnector Association="DienThoaiDiDong1Model.FK_chitiethoadon_sanpham" ManuallyRouted="false" />
+        <AssociationConnector Association="DienThoaiDiDong1Model.FK_hoadon_khachhang" ManuallyRouted="false" />
+        <AssociationConnector Association="DienThoaiDiDong1Model.FK_sanpham_theloaisp" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

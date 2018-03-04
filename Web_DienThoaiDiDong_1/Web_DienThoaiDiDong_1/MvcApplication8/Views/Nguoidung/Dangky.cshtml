@@ -1,0 +1,102 @@
+﻿@model MvcApplication8.Models.khachhang
+
+@{
+    ViewBag.Title = "Dangky";
+  
+}
+
+<style>
+    .km {
+        display: none;
+    }
+
+    .nivoSlider {
+        display: none;
+    }
+
+    .nivo-controlNav {
+        display: none;
+    }
+
+    /*.km {
+        margin-left: 0;
+        float: left;
+    }*/
+</style>
+
+<link href="~/Content/NguoidungCssLayOut/dangnhap.css" rel="stylesheet" />
+<div style=" margin-left:400px;border:1px solid black;width:400px;  margin-top:50px ;background-color:black">
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <fieldset>
+            <legend>Đăng ký</legend>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.khachhang_id)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.khachhang_id)
+                @Html.ValidationMessageFor(model => model.khachhang_id)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.khachhang_name)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.khachhang_name)
+                @Html.ValidationMessageFor(model => model.khachhang_name)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.khachhang_ns)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.khachhang_ns)
+                @Html.ValidationMessageFor(model => model.khachhang_ns)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.khachhang_diachi)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.khachhang_diachi)
+                @Html.ValidationMessageFor(model => model.khachhang_diachi)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.khachhang_sdt)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.khachhang_sdt)
+                @Html.ValidationMessageFor(model => model.khachhang_sdt)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.khachhang_taikhoan)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.khachhang_taikhoan)
+                @Html.ValidationMessageFor(model => model.khachhang_taikhoan)
+            </div>
+
+            <div class="editor-label">
+                @Html.LabelFor(model => model.khachhang_matkhau)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.khachhang_matkhau)
+                @Html.ValidationMessageFor(model => model.khachhang_matkhau)              
+
+            </div>
+            
+            <p>
+                <button style="margin-left:250px;background-color:#b6ff00;font-size:20px" id="btdangky" type="submit" value="Create">Đăng ký</button>
+            </p>
+        </fieldset>
+    }
+ </div>
+
+

@@ -1,0 +1,362 @@
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\MvcApplication8.dll.config
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\MvcApplication8.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\MvcApplication8.pdb
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\Antlr3.Runtime.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\EntityFramework.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\Newtonsoft.Json.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Net.Http.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.Mvc.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.Optimization.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.Providers.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.Razor.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.WebPages.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\WebGrease.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\EntityFramework.xml
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\Newtonsoft.Json.xml
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Net.Http.xml
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.Mvc.xml
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.Razor.xml
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.WebPages.xml
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\obj\Debug\MvcApplication8.dll
+E:\bt.ng2 lt2\MvcApplication8\MvcApplication8\obj\Debug\MvcApplication8.pdb
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\MvcApplication8.dll.config
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\MvcApplication8.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\MvcApplication8.pdb
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\Antlr3.Runtime.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\EntityFramework.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\Newtonsoft.Json.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Mvc.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Optimization.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Providers.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Razor.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\WebGrease.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\EntityFramework.xml
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\Newtonsoft.Json.xml
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.xml
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Mvc.xml
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Razor.xml
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.xml
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\obj\Debug\MvcApplication8.dll
+E:\bt.ng2 lt2\Web_DienThoaiDiDong\MvcApplication8\obj\Debug\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\MvcApplication8.dll.config
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Antlr3.Runtime.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\EntityFramework.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Newtonsoft.Json.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Mvc.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Optimization.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Providers.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\WebGrease.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\EntityFramework.xml
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Newtonsoft.Json.xml
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.xml
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Mvc.xml
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.xml
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\obj\Debug\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\CN_Web\Web_DienThoaiDiDong\MvcApplication8\obj\Debug\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\MvcApplication8.dll.config
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Antlr3.Runtime.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\EntityFramework.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Newtonsoft.Json.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Mvc.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Optimization.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Providers.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\WebGrease.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\EntityFramework.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Newtonsoft.Json.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Mvc.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\obj\Debug\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\obj\Debug\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong\MvcApplication8\bin\System.Web.Optimization.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\MvcApplication8.dll.config
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\Antlr3.Runtime.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\EntityFramework.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\Newtonsoft.Json.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Net.Http.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.Mvc.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.Optimization.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.Providers.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.WebPages.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\WebGrease.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\EntityFramework.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\Newtonsoft.Json.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.Optimization.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Net.Http.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.Mvc.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.WebPages.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\obj\Debug\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong - Copy\MvcApplication8\obj\Debug\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll.config
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Providers.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\WebGrease.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll.config
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Providers.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\WebGrease.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll.config
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Providers.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\WebGrease.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll.config
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Providers.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\WebGrease.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Downloads\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.pdb
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll.config
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.pdb
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Providers.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\WebGrease.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.pdb
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.dll
+E:\A.Tai va hoctap\CN_Web\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll.config
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\MvcApplication8.pdb
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Providers.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\WebGrease.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\Newtonsoft.Json.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Optimization.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Net.Http.WebRequest.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Mvc.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.Razor.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.dll
+C:\Users\Thanh-Huyen\Desktop\Web_DienThoaiDiDong_1\Web_DienThoaiDiDong_1\MvcApplication8\obj\Debug\MvcApplication8.pdb
